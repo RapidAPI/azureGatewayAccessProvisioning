@@ -1,1 +1,1 @@
-# azureGatewatCredentialAuthorization
+# azureGatewayCredentialAuthorization
