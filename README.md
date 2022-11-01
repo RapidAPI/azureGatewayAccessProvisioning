@@ -1,1 +1,1 @@
-# azureGatewayCredentialAuthorization
+# azureGatewayAccessProvisioning
